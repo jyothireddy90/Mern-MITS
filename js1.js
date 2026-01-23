@@ -77,7 +77,7 @@
     <div class="section">
         <h2>Education</h2>
         <p>B.Tech – Computer Science Engineering</p>
-        <p>Madanapalle Institute of Technology and Science</p>
+        <p>Your College Name</p>
     </div>
 
     <!-- Contact -->
